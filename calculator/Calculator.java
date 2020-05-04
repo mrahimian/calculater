@@ -1,4 +1,4 @@
-package cal;
+package calculator;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

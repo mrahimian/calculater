@@ -1,7 +1,7 @@
-package cal;
+package calculator;
 
 public class Main {
     public static void main(String[] args) {
-    Gui gui = new Gui();
+    Calculator gui = new Calculator();
     }
 }
